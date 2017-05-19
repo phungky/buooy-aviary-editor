@@ -37,7 +37,7 @@ For support, chat us up at <http://support.buooy.com/>
 
 = Do I need an API Key? =
 
-Yes you do! You can get your API Key from <https://creativesdk.adobe.com/>. More information is found in the settings page after you installed the plugin.
+Yes you do! You can get your API Key from <https://console.adobe.io/>. More information is found in the settings page after you installed the plugin.
 
 = Does it work on localhost? =
 
@@ -52,6 +52,9 @@ The short answer is NO.
 5. Set the Image title
 
 == Changelog ==
+
+= 0.6.5.1 =
+- Documents fixed for Adobe moves My Apps's home to Adobe I/O.
 
 = 0.6.5 =
 * First Commit
