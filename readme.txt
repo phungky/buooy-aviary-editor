@@ -3,8 +3,8 @@ Contributors: buooy
 Donate link: http://stewaard.com/
 Tags: buooy, photo editor, image editor, images, photos, aviary, adobe, adobe creative sdk
 Requires at least: 4.1
-Tested up to: 4.2.3
-Stable tag: 0.6.9
+Tested up to: 4.7.5
+Stable tag: 0.7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
